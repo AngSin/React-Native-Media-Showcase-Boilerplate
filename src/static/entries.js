@@ -22,7 +22,7 @@ export const MOVIES = [
         title: 'Malhamat Ghadr',
         titleArabic: 'ملحمة الغدر',
         type: 'movie',
-        illustration: require('./images/malhaamtghadr_poster.jpg'),//TODO
+        illustration: require('./images/malhaamtghadr_poster.jpg'),
         promo: 'http://qshoow.com/malhamtghadr/promomalhamtalghadr.mp4',
         info: `المدة= 40 دقيقة
 التصنيف= مونودراما
@@ -38,7 +38,7 @@ export const MOVIES = [
         title: 'Malhamat Dhad',
         titleArabic: 'ملحمة الضاد',
         type: 'movie',
-        illustration: require('./images/malhama_poster.jpg'),//TODO
+        illustration: require('./images/malhama_poster.jpg'),
         promo: 'http://qshoow.com/malhamtdhad/promomalhamtdhad.mp4',
         info: `المدة= 43 دقيقة
 التصنيف= مونودراما
@@ -56,8 +56,8 @@ export const MOVIES = [
         title: 'Malhamat Sakhra',
         titleArabic: 'ملحمة صغرة',
         type: 'movie',
-        illustration: require('./images/malhamtsakhra_poster.jpg'), //the images I was given were not on a secure domain(https) so I had to download the images and require them
-        promo: 'http://qshoow.com/malhamtsakhra/malhamtsakhrapromo.mp4', //http://qshoow.com/malhamtsakhra/malhamtsakhrapromo.mp4
+        illustration: require('./images/malhamtsakhra_poster.jpg'), 
+        promo: 'http://qshoow.com/malhamtsakhra/malhamtsakhrapromo.mp4', 
         description: `الوصف: تُعد من قبيل الخواطر السياسية، حيث تتحدث عن وضع الأمة العربية، وما أصابها من تفكك نتيجة المؤامرات والدسائس
 على يد أعداء الإنسانية. فيشبه الأمة العربية بصخرة ورغم كل ما حل بها إلا أن شكلها يوحي بالقوة لكل من يراها لا تتحرك من مكانها نتيجة استقرار خيالها بأنها مثقلة بإرث الماضي وعظمة التاريخ وانتصاراتها وصمودها في وجه الرياح. ثم تستنهض روح البطولة والتاريخ، لأن كل هذه المؤامرات حتماً إلى زوال، فكم تعرضت الأمة العربية لحلقات من النار لكنها أصبحت أقوى وأكثر جلادة وملكت جبروت يحسدها أعدؤها عليه.`,
         info: `المدة= 19 دقيقة 
